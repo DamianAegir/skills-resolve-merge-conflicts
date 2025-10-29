@@ -1,4 +1,3 @@
-## References
+# References
 
-- Darth Vader, Sith Lord
-- Yoda, Jedi Master
+* octocat 1 😈
